@@ -7,10 +7,10 @@ Building scalable & modern web apps | Passionate about **Web3** 🌐, decentrali
 
 ---
 
-- 🤝🏼 Seeking collabs on **Web3 & Full-Stack projects**  
-- 🗣️ Ask me about **React ⚛️, DevOps ⚙️, TypeScript 🟦 and modern web development 🚀**  
-- 📬 Reach out: [LinkedIn](https://www.linkedin.com/in/rakshith-raj-m-48344b2aa/)  
-- 🧑‍💻 Always coding in dark mode 🌑  
+- 🌱 Seeking collabs on **Web3 & Full-Stack projects**  
+- 💬 Ask me about **React ⚛️, DevOps ⚙️, TypeScript 🟦 and modern web development 🚀**  
+- 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/rakshith-raj-m-48344b2aa/)  
+- 🧑‍💻 Dark mode isn’t a choice, it’s a lifestyle!  
 
 ---
 
@@ -41,12 +41,6 @@ Building scalable & modern web apps | Passionate about **Web3** 🌐, decentrali
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 </div>
-
----
-
-## 🏆 Fun Fact
-
-🌑 **Dark mode isn’t a choice, it’s a lifestyle!**
 
 ---
 
