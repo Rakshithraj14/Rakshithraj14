@@ -9,7 +9,7 @@ Building scalable & modern web apps | Passionate about **Web3** 🌐, decentrali
 
 - 🌱 Seeking collabs on **Web3 & Full-Stack projects**  
 - 💬 Ask me about **React, DevOps, TypeScript and modern web development **  
-- 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/rakshith-raj-m-48344b2aa/)  
+- 📫 Reach out: [email](rakshithraj14112001@gmail.com)  
 - 🧑‍💻 Dark mode isn’t a choice, it’s a lifestyle!  
 
 ---
