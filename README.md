@@ -8,7 +8,7 @@ Building scalable & modern web apps | Passionate about **Web3** 🌐, decentrali
 ---
 
 - 🌱 Seeking collabs on **Web3 & Full-Stack projects**  
-- 💬 Ask me about **React, DevOps, TypeScript and modern web development**  
+- 💬 Ask me about **React, DevOps, TypeScript, Blockchain and modern web development**  
 - 📫 How to reach me: rakshithraj14112001@gmail.com 
 - 🧑‍💻 Dark mode isn’t a choice, it’s a lifestyle!  
 
@@ -30,6 +30,7 @@ Building scalable & modern web apps | Passionate about **Web3** 🌐, decentrali
   <img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -53,3 +54,10 @@ Building scalable & modern web apps | Passionate about **Web3** 🌐, decentrali
 ## 💡 Motto
 
 ✨ *“Code. Build. Break. Repeat.”*  
+
+---
+
+## 📊 GitHub Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithraj14&layout=compact&theme=radical&langs_count=8&hide=php)  
+
