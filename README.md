@@ -1,55 +1,108 @@
-# 🦄 Hey there, I'm Rakshith Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-
-### 💻 Full Stack Developer | Web3 Enthusiast  
-Building scalable & modern web apps | Passionate about **Web3** 🌐, decentralized systems 🛡️, and seamless user experiences ✨  
-
----
-
-- 🌱 Seeking collabs on **Web3 & Full-Stack projects**  
-- 💬 Ask me about **React, DevOps, TypeScript, Blockchain and modern web development**  
-- 📫 How to reach me: **rakshithraj14112001@gmail.com**  
-- 🧑‍💻 Dark mode isn’t a choice, it’s a lifestyle!  
-
----
-
-## My Arsenal of Skills  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Branching_&_Merging-8A2BE2?style=for-the-badge&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/CI/CD-00BCD4?style=for-the-badge&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Collaboration-FF8C00?style=for-the-badge&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Cloud_Infrastructure-4682B4?style=for-the-badge&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-FF6F61?style=for-the-badge&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-FF69B4?style=for-the-badge&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-6F42C1?style=for-the-badge&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Network_Security-FF4500?style=for-the-badge&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&animation=glow" height="50"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-DC143C?style=for-the-badge&animation=glow" height="50"/>
+  <img src="assets/hero.svg" width="100%" alt="Rakshith Raj: I forge web apps, ML systems and the tools that keep them honest." />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakshith-raj-m-48344b2aa/"><img src="https://img.shields.io/badge/LinkedIn-17130F?style=for-the-badge&logo=linkedin&logoColor=FFB23E" alt="LinkedIn" /></a>
+  <a href="mailto:rakshithraj14112001@gmail.com"><img src="https://img.shields.io/badge/Email-17130F?style=for-the-badge&logo=gmail&logoColor=FFB23E" alt="Email" /></a>
+  <a href="https://github.com/Rakshithraj14/shiplog"><img src="https://img.shields.io/badge/shiplog%20blog-17130F?style=for-the-badge&logo=markdown&logoColor=FFB23E" alt="Blog" /></a>
+  <a href="https://github.com/brahmGAN"><img src="https://img.shields.io/badge/@brahmGAN-17130F?style=for-the-badge&logo=github&logoColor=FFB23E" alt="brahmGAN" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rakshithraj14&style=for-the-badge&color=FF5F1F&label=VISITORS" alt="Profile views" />
+</p>
 
-## 💡 Motto  
+<br/>
 
-✨ *“Code. Build. Break. Repeat.”*
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-about-light.svg" />
+  <img src="assets/h-about.svg" width="100%" alt="About" />
+</picture>
 
----
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="cat about.yml: Rakshith Raj, Bengaluru. Builds full-stack apps, ML systems and edge services. Exploring Web3, decentralized systems and MLOps." />
+</p>
 
-## 📊 GitHub Stats  
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithraj14&layout=compact&theme=radical&langs_count=12&hide=php&count_private=true&animate=true)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-projects-light.svg" />
+  <img src="assets/h-projects.svg" width="100%" alt="Things I've forged" />
+</picture>
+
+<p align="center">
+  <a href="https://github.com/Rakshithraj14/ModelForge"><img src="assets/card-modelforge.svg" width="49%" alt="ModelForge: production ML health monitoring" /></a>
+  <a href="https://github.com/Rakshithraj14/SupportForge"><img src="assets/card-supportforge.svg" width="49%" alt="SupportForge: self-evaluating RAG support bot" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Rakshithraj14/AvatarForge"><img src="assets/card-avatarforge.svg" width="49%" alt="AvatarForge: deterministic avatars on Cloudflare Workers" /></a>
+  <a href="https://github.com/Rakshithraj14/shiplog"><img src="assets/card-shiplog.svg" width="49%" alt="shiplog: my public build log" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rakshithraj14?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%2039%20repos-17130F?style=for-the-badge&logo=github&logoColor=FFB23E" alt="All repositories" /></a>
+</p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-toolbox-light.svg" />
+  <img src="assets/h-toolbox.svg" width="100%" alt="Toolbox" />
+</picture>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,vue,tailwind,html,css&theme=dark" alt="Languages and frontend" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis,docker,aws,cloudflare,githubactions,prometheus,grafana,linux,git&theme=dark" alt="Backend, cloud and DevOps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-17130F?style=for-the-badge&logo=langchain&logoColor=FFB23E" />
+  <img src="https://img.shields.io/badge/Ollama-17130F?style=for-the-badge&logo=ollama&logoColor=FFB23E" />
+  <img src="https://img.shields.io/badge/Qdrant-17130F?style=for-the-badge&logoColor=FFB23E" />
+  <img src="https://img.shields.io/badge/Celery-17130F?style=for-the-badge&logo=celery&logoColor=FFB23E" />
+  <img src="https://img.shields.io/badge/Langfuse-17130F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DeepEval%20%2B%20Ragas-17130F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hono-17130F?style=for-the-badge&logo=hono&logoColor=FFB23E" />
+  <img src="https://img.shields.io/badge/Jupyter-17130F?style=for-the-badge&logo=jupyter&logoColor=FFB23E" />
+</p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-activity-light.svg" />
+  <img src="assets/h-activity.svg" width="100%" alt="Heat map" />
+</picture>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-customize.svg" width="100%" alt="3D contribution calendar" />
+</p>
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Rakshithraj14&show_icons=true&count_private=true&include_all_commits=true&bg_color=17130F&title_color=FFB23E&icon_color=FF5F1F&text_color=B3A79B&ring_color=FF5F1F&border_color=3B3028&border_radius=16" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithraj14&layout=compact&langs_count=8&hide=php&bg_color=17130F&title_color=FFB23E&text_color=B3A79B&border_color=3B3028&border_radius=16" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rakshithraj14&background=17130F&border=3B3028&stroke=3B3028&ring=FF5F1F&fire=FFB23E&currStreakNum=F3E9DC&sideNums=F3E9DC&currStreakLabel=FFB23E&sideLabels=B3A79B&dates=8C7D70&border_radius=16" alt="Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshithraj14&bg_color=17130F&color=B3A79B&line=FF5F1F&point=FFF0C9&area=true&area_color=FF5F1F&title_color=FFB23E&radius=16&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakshithraj14/Rakshithraj14/output/snake-forge-light.svg" />
+    <img src="https://raw.githubusercontent.com/Rakshithraj14/Rakshithraj14/output/snake-forge-dark.svg" width="100%" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="64" title="Quickdraw" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="64" title="Pull Shark x2" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" title="YOLO" alt="YOLO" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Code. Build. Break. Repeat." />
+</p>
