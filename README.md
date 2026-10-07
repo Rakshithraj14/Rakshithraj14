@@ -72,6 +72,10 @@
 </picture>
 
 <p align="center">
+  <img src="assets/contrib-combined.svg" width="100%" alt="Contributions across Rakshithraj14 and rakshith-gpu, merged" />
+</p>
+
+<p align="center">
   <img src="profile-3d-contrib/profile-customize.svg" width="100%" alt="3D contribution calendar" />
 </p>
 

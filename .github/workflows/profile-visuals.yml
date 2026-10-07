@@ -31,6 +31,23 @@ jobs:
             git pull --rebase && git push
           fi
 
+  combined:
+    name: Combined contribution graph
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: python3 .github/combine_contribs.py assets/contrib-combined.svg Rakshithraj14 rakshith-gpu
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/contrib-combined.svg
+          if git commit -m "chore: refresh combined contribution graph"; then
+            git pull --rebase && git push
+          fi
+
   snake:
     name: Contribution snake
     runs-on: ubuntu-latest
