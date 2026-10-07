@@ -92,6 +92,14 @@
 </p>
 
 <p align="center">
+  <a href="https://hacktoberfest.com"><img src="assets/badges/hacktoberfest-26-signin.png" width="110" title="Hacktoberfest 2026: signed in" alt="Hacktoberfest 2026 badge: Sign into Hacktoberfest.com" /></a>
+  <a href="https://www.credly.com/badges/fc89e06e-4688-45bc-bb5d-c912b8702f10/public_url"><img src="https://images.credly.com/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" width="110" title="AWS Educate: Getting Started with Storage" alt="AWS Educate Getting Started with Storage badge" /></a>
+  <a href="https://www.credly.com/badges/c509dfda-ddf5-4f80-99f0-466ed44688df/public_url"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="110" title="Cisco: Python Essentials 1" alt="Cisco Python Essentials 1 badge" /></a>
+  <a href="https://www.credly.com/badges/10edb130-c87f-470f-88d4-4928a83bf5f9/public_url"><img src="https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="110" title="Cisco: Introduction to Data Science" alt="Cisco Introduction to Data Science badge" /></a>
+  <a href="https://www.credly.com/badges/a23182b9-b4fc-4b2f-b003-f22382894518/public_url"><img src="https://images.credly.com/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="110" title="Cisco: JavaScript Essentials 1" alt="Cisco JavaScript Essentials 1 badge" /></a>
+</p>
+
+<p align="center">
   <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="64" title="Quickdraw" alt="Quickdraw" />
   <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="64" title="Pull Shark x2" alt="Pull Shark" />
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" title="YOLO" alt="YOLO" />
