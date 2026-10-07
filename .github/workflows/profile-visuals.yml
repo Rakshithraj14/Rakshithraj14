@@ -17,9 +17,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+      # relay that adds rakshith-gpu's contributions into the same calendar
+      - name: Start merge relay
+        run: |
+          nohup python3 .github/merge_proxy.py 8787 rakshith-gpu > /tmp/relay.log 2>&1 &
+          for i in $(seq 20); do curl -s -o /dev/null http://127.0.0.1:8787 && break; sleep 0.5; done
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ENDPOINT: http://127.0.0.1:8787
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: ./.github/forge-3d.json
       - name: Commit and push
@@ -28,23 +34,6 @@ jobs:
           git config user.email github-actions@github.com
           git add -A profile-3d-contrib
           if git commit -m "chore: refresh 3D contribution calendar"; then
-            git pull --rebase && git push
-          fi
-
-  combined:
-    name: Combined contribution graph
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v5
-      - run: python3 .github/combine_contribs.py assets/contrib-combined.svg Rakshithraj14 rakshith-gpu
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit and push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add assets/contrib-combined.svg
-          if git commit -m "chore: refresh combined contribution graph"; then
             git pull --rebase && git push
           fi
 
