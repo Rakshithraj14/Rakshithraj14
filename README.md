@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Rakshith Raj: I forge web apps, ML systems and the tools that keep them honest." />
+  <img src="assets/hero.svg" width="100%" alt="Rakshith Raj: I forge APIs, ML pipelines and the tools that keep them honest." />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </picture>
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="cat about.yml: Rakshith Raj, Bengaluru. Builds full-stack apps, ML systems and edge services. Exploring Web3, decentralized systems and MLOps." />
+  <img src="assets/about.svg" width="100%" alt="cat about.yml: Rakshith Raj, Bengaluru. Builds APIs, ML pipelines and edge services. Exploring MLOps, model monitoring and LLM evals." />
 </p>
 
 <br/>
@@ -49,8 +49,8 @@
 </picture>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,vue,tailwind,html,css&theme=dark" alt="Languages and frontend" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis,docker,aws,cloudflare,githubactions,prometheus,grafana,linux,git&theme=dark" alt="Backend, cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,postgres,redis&theme=dark" alt="Languages and backend" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,prometheus,grafana,linux,git&theme=dark" alt="Cloud, DevOps and observability" />
 </p>
 
 <p align="center">
@@ -85,10 +85,6 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshithraj14&bg_color=17130F&color=B3A79B&line=FF5F1F&point=FFF0C9&area=true&area_color=FF5F1F&title_color=FFB23E&radius=16&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakshithraj14/Rakshithraj14/output/snake-forge-light.svg" />
     <img src="https://raw.githubusercontent.com/Rakshithraj14/Rakshithraj14/output/snake-forge-dark.svg" width="100%" alt="Snake eating my contribution graph" />
@@ -106,3 +102,4 @@
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Code. Build. Break. Repeat." />
 </p>
+<!--  -->
