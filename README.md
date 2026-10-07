@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rakshith-raj-m-48344b2aa/"><img src="https://img.shields.io/badge/LinkedIn-17130F?style=for-the-badge&logo=linkedin&logoColor=FFB23E" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rakshith-raj-m-48344b2aa/"><img src="https://img.shields.io/badge/LinkedIn-17130F?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGQjIzRSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
   <a href="mailto:rakshithraj14112001@gmail.com"><img src="https://img.shields.io/badge/Email-17130F?style=for-the-badge&logo=gmail&logoColor=FFB23E" alt="Email" /></a>
-  <a href="https://github.com/Rakshithraj14/shiplog"><img src="https://img.shields.io/badge/shiplog%20blog-17130F?style=for-the-badge&logo=markdown&logoColor=FFB23E" alt="Blog" /></a>
+  <a href="https://rakshithraj14.github.io/shiplog/"><img src="https://img.shields.io/badge/shiplog%20blog-17130F?style=for-the-badge&logo=markdown&logoColor=FFB23E" alt="Blog" /></a>
   <a href="https://github.com/brahmGAN"><img src="https://img.shields.io/badge/@brahmGAN-17130F?style=for-the-badge&logo=github&logoColor=FFB23E" alt="brahmGAN" /></a>
   <img src="https://komarev.com/ghpvc/?username=Rakshithraj14&style=for-the-badge&color=FF5F1F&label=VISITORS" alt="Profile views" />
 </p>
